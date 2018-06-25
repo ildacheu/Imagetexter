@@ -1,3 +1,5 @@
+#written for Skizzenbuch 2018
+
 from docx.shared import Pt
 from docx import Document
 from docx.shared import Inches
